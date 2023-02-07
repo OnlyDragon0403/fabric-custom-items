@@ -4,13 +4,13 @@
   "version": "${version}",
 
   "name": "Fabric Mod",
-  "description": "This is a fabric mod made by Legonerd666",
+  "description": "This is a fabric mod made by onlydragon0403",
   "authors": [
-    "Legonerd666"
+    "onlydragon0403"
   ],
   "contact": {
     "homepage": "",
-    "sources": "https://github.com/legonerd666/FabricMCMod1"
+    "sources": "https://github.com/onlydragon0403/FabricMCMod1"
   },
 
   "license": "CC0-1.0",
@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "github.legonerd666.fabricMod.FabricMod"
+      "github.onlydragon0403.fabricMod.FabricMod"
     ]
   },
   "mixins": [

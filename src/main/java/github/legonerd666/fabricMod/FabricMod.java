@@ -1,6 +1,6 @@
-package github.legonerd666.fabricMod;
+package github.onlydragon0403.fabricMod;
 
-import github.legonerd666.fabricMod.registry.ModItems;
+import github.onlydragon0403.fabricMod.registry.ModItems;
 import net.fabricmc.api.ModInitializer;
 
 public class FabricMod implements ModInitializer {
